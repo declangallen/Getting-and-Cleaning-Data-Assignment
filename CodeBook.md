@@ -56,10 +56,10 @@ Test and Train where then merged and ordered based off the volunteer ID in ascen
 
 The merged dataset was then filted by only taking the variables that described the mean and std for each observation.
 
-##Step 5.
+##Step 5. Insert activity labels
 
 As this point, the activity IDs where converted to their respective labels described in the activity_labels.txt file.
 
-##Step 6.
+##Step 6. Create tidy dataset
 
 A tidy dataset was then created that provided the mean of the filtered variables. A mean was provided for each activity carried out by each volunteer.
